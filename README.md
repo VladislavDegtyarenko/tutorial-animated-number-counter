@@ -1,3 +1,8 @@
+## Video Tutorial
+[![video](https://i.ytimg.com/vi/Q78i8TRIxMk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q78i8TRIxMk&ab_channel=VladyslavDihtiarenko)
+
+
+## Project
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
